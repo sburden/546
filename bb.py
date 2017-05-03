@@ -83,8 +83,6 @@ if __name__ == "__main__":
 
   p = dict(m=m, g=g, c=c, debug=debug, Zeno=Zeno)
 
-  1/0
-
   bb = BouncingBall()
 
   h  = 1e-2
